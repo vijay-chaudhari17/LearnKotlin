@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3790dea3-ac21-422d-8cb6-dafb90626787" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/A43_SealedClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A44_AbstractClasses/A44_AbstractClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../A45_DataClass/A45_DataClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A48_ObjectExpression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../A41_Inheritance01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A41_Inheritance01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
