@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3790dea3-ac21-422d-8cb6-dafb90626787" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A43_SealedClass/A43_SealedClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A44_AbstractClasses/A44_AbstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A45_DataClass/A45_DataClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A48_ObjectExpression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A41_Inheritance01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A41_Inheritance01/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2VQzsPJeIdliXSsLzumLHNYtZZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3790dea3-ac21-422d-8cb6-dafb90626787" name="Changes" comment="" />
+      <created>1694783299473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694783299473</updated>
+    </task>
+    <servers />
+  </component>
+</project>
